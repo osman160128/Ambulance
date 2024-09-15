@@ -4,23 +4,35 @@
      "phone" : "031-650000"
    },
   {
-     "name " : "Dead Body Carrier ",
+     "name " : "Fire Service Ambulance",
+     "phone" : "031-716326-7"
+   },
+  {
+     "name " : "General Hospital",
+     "phone" : "031-619584"
+   },
+  {
+     "name " : "Holy Crescent Hospital",
+     "phone" : "031-620025"
+   },
+  {
+     "name " : "Media Amb Service",
      "phone" : "031-650000"
    },
   {
-     "name " : "Dead Body Carrier ",
-     "phone" : "031-650000"
+     "name " : "Modern Ambulance Service",
+     "phone" : "01716074497"
    },
-  {
-     "name " : "Dead Body Carrier ",
-     "phone" : "031-650000"
+   {
+     "name " : "Poil Hospital",
+     "phone" : "505021-9"
    },
-  {
-     "name " : "Dead Body Carrier ",
-     "phone" : "031-650000"
+   {
+     "name " : "Railway Hospital",
+     "phone" : "031-502220"
    },
-  {
-     "name " : "Dead Body Carrier ",
-     "phone" : "031-650000"
-   },
+   {
+     "name " : "Upasham Hospital",
+     "phone" : "031-637243"
+   }
 ]
